@@ -1,0 +1,9 @@
+('/Users/jimad12/Desktop/AI/begPy/chap12/pythonCourseRegistry/dist/CourseRegistry',
+ False,
+ False,
+ 'app.ico',
+ None,
+ [],
+ None,
+ False,
+ 1426264874)
